@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821876080039",
+    "firebase_url": "https://gpsvehicletracking-tti.firebaseio.com",
+    "project_id": "gpsvehicletracking-tti",
+    "storage_bucket": "gpsvehicletracking-tti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821876080039:android:bf89665dc1473957",
+        "android_client_info": {
+          "package_name": "tushar.gpsvechicletracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821876080039-1u561qr0siftl05jqkg0hk2kal7ugc5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tushar.gpsvechicletracking",
+            "certificate_hash": "72cfdfdb3598661bcd08e94c47ce448f6fde31b0"
+          }
+        },
+        {
+          "client_id": "821876080039-so1mkuns79lkqkfvav01172o4eatvcpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDByGKI7pjq9hUqCdteBOife_zzG3IcZTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821876080039-so1mkuns79lkqkfvav01172o4eatvcpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
